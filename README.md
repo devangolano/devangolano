@@ -1,4 +1,4 @@
-## Olá🖐️ me chamo Alberto José (Dev Angolano)
+## Olá! me chamo Alberto José (Dev Angolano)🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto237/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_angolano/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Devangolano?si=VQT--_C1o5bK11jj)

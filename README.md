@@ -20,5 +20,5 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e resolver problemas através da programação.
+Apaixonado por tecnologia e em resolver problemas através da programação.
 

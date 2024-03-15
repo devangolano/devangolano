@@ -4,6 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Devangolano?si=VQT--_C1o5bK11jj)
 
 ![Dev_Angolano](https://github-readme-stats.vercel.app/api?username=devangolano&show_icons=true&theme=radical)
+![Dev_Angolano](https://github-readme-stats.vercel.app/api/top-langs/?username=devangolano&layout=compact)
 
 ## Tecnologias que eu uso no meu dia-a-dia
 
